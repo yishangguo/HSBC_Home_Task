@@ -1,0 +1,3 @@
+com/hsbc/transaction/service/TransactionServiceTest.class
+com/hsbc/transaction/controller/TransactionControllerIntegrationTest.class
+com/hsbc/transaction/performance/TransactionPerformanceTest.class
