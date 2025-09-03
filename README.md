@@ -168,7 +168,8 @@ hsbc/
 - ✅ **性能测试**: 并发和压力测试
 - ✅ **测试配置**: 独立的测试环境
 - ✅ **约束测试**: 不可变字段保护验证
-  <img width="451" height="781" alt="image" src="https://github.com/user-attachments/assets/d3ed808e-f83a-4ad3-81de-2e581b039d9d" />
+
+<img width="451" height="781" alt="image" src="https://github.com/user-attachments/assets/c7d3a1d2-79fb-4dd6-9372-2b7bd2e8011e" />
 
 
 ### 容器化部署
