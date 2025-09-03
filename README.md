@@ -411,6 +411,9 @@ curl http://localhost:8080/api/v1/transactions?page=0&size=10
 - 错误日志: `logs/error.log`
 - 性能日志: `logs/performance.log`
 
+## 演示地址
+http://43.139.236.195:8080
+
 
 ## 联系方式
 
