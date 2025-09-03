@@ -412,8 +412,7 @@ curl http://localhost:8080/api/v1/transactions?page=0&size=10
 - 性能日志: `logs/performance.log`
 
 ## 演示地址
-http://43.139.236.195:8080
-
+- 使用腾讯云实例基于docker部署：http://43.139.236.195:8080
 
 ## 联系方式
 
